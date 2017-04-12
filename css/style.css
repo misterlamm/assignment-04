@@ -28,7 +28,7 @@ header .fancy {
   border-color: #B0E6E2;
   border-width: thin;
   padding: 10 10;
-  margin: 0 0 -55px 720px;
+  margin-left: 720px;
   color: #B0E6E2;
   font-size: 17px;
 }
@@ -39,17 +39,8 @@ header .fancy:hover {
 }
 
 
-header .simple {
-   background-color: #F55E05;
-   border-style:none;
-   color: white;
-   font-size: 18px;
-   float: right;
-   margin: 16px 80px 0 -30px;
-}
-
 .header2 {
-  background-image: url("/Users/alamm7/TIY/assignments/assignment-04/images/hero-splash-roommates-fun.jpg");
+  background-image: url("../images/hero-splash-roommates-fun.jpg");
   color: white;
   background-size: 1500px;
   text-align: center;
